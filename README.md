@@ -12,6 +12,9 @@ My tests are cumulative - some questions are part of the current subject matter,
 This script randomly picks _n_ questions from the files defined by user. If there  MULTI - multichoice questions, the order of them is also randomized. Check in example.pdf
 ![Untitled 5](https://github.com/user-attachments/assets/070eb09c-20db-4621-969a-a4ac87650284)
 
+# I want different paper size, different font size, I hate landscape!
+Hell yeah. All those parameters can be set in the _**main.py**_, check it, change it. **I want you to be creative!**
+
 # Requirements
 - Windows (tested on W11)
 - python installed
