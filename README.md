@@ -15,10 +15,10 @@ For me as a teacher it's important that you understand how it works. (full docum
 ![Untitled 5](https://github.com/user-attachments/assets/070eb09c-20db-4621-969a-a4ac87650284)
 
 # Requirements
-Windows (tested on W11)
-python installed
-pdflatex installed (check if pdflatex command in cmd works, if so, you should be fine)
-PyMuPDF==1.24.9
+- Windows (tested on W11)
+- python installed
+- pdflatex installed (check if pdflatex command in cmd works, if so, you should be fine)
+- PyMuPDF==1.24.9
 
 # Contribute
 I write this script in my time, and I dare my students (or you) to help with development. There are several things to be added... if you miss something, please create an issue.
