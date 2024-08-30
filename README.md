@@ -1,6 +1,5 @@
-![logo](https://github.com/user-attachments/assets/5ce029f6-bdf1-4f82-beac-de624dabcf2d)
 # What is it?
-ArcaneExamz is my humble script for **generating randomized exams with questions and answers randomization** using LaTeX and Python. You can generate unique variants of your exam in seconds. You can also generate version with solutions at the same time. So far it works with **open and multichoice** questions.
+ArcaneExamz is a humble script for **generating randomized exams with questions and answers randomization** using LaTeX and Python. You can generate unique variants of your exam in seconds. You can also generate version with solutions at the same time. So far it works with **open and multichoice** questions.
 
 
 Development is still in progress; tutorials will be added in the foreseeable future.
