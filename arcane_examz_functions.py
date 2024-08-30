@@ -100,7 +100,7 @@ def write_content_header(filename, version, testid, paper_size, font_size, lands
         # "\\header{INF 1.G}{Name: \\fillin}{Points: \hspace{5pt} / \\numpoints }",
         "\\header{"+header_left+"}{"+header_center+"}{"+header_right+"}",
         "\\headrule",
-        "\\footer{ArchaneExamz v" + version + "}{Test ID: " + str(testid + 1) + "}{\\thepage\,/\,\\numpages}",
+        "\\footer{ArcaneExamz v" + version + "}{Test ID: " + str(testid + 1) + "}{\\thepage\\,/\\,\\numpages}",
         "\\footrule",
         "",
         "\\begin{questions}"]
